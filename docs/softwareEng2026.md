@@ -1,3 +1,9 @@
+---
+layout: page
+title: "software Eng. lecture note"
+permalink: /docs/softwareEng2026
+---
+
 # 第1回
 ソフトウェア工学は、実務から体系化された知見、知見と実践の乖離、チーム全体の知識の共有が難しいところである。  
 情報学の知識がなくてもITエンジニアになれるくらいチームワークのある人が重要である。  
